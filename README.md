@@ -67,3 +67,32 @@
 </p>
 
 <br>
+
+<h3>
+  📢
+  <a href="https://github.com/redefiningvicky/Portraits-of-a-Youth-Social-Movement">
+    Portraits of a Youth Social Movement:
+    Young Invincibles (YI) in Education Advocacy
+  </a>
+</h3>
+
+<p>
+  A StoryMaps presentation examining youth advocacy
+  and equitable access to higher education.
+</p>
+
+<p>
+  <sub>December 2024 · ArcGIS Online, ArcGIS StoryMaps</sub>
+</p>
+
+<p>
+  <a href="https://github.com/redefiningvicky/Portraits-of-a-Youth-Social-Movement">
+    View Project
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://arcg.is/v1uu4">
+    View StoryMaps
+  </a>
+</p>
+
+<br>
