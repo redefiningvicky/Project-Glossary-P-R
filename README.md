@@ -104,6 +104,33 @@
 <br>
 
 <h3>
+  🌿
+  <a href="https://github.com/redefiningvicky/Oakenburrow-Cafe">
+    Oakenburrow Cafe
+  </a>
+</h3>
+
+<p>
+  A cozy woodland cafe game about sharing a meal, meeting the neighbors, and paying it forward.
+</p>
+
+<p>
+  <sub>November 2026 · Lovable, Claude, ChatGPT</sub>
+</p>
+
+<p>
+  <a href="https://github.com/redefiningvicky/Oakenburrow-Cafe">
+    View Project
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://oakenburrowcafe.lovable.app/">
+    Launch Game
+  </a>
+</p>
+
+<br>
+
+<h3>
   🌼
   <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep">
     Phuang Malai Krung Thep
