@@ -47,6 +47,41 @@
 
 <h3>
   🏠
+  <a href="https://github.com/redefiningvicky/Nutmeg-Ginger-Cottage">
+    Nutmeg & Ginger's Cottage
+  </a>
+</h3>
+
+<p>
+  A multiplayer fairytale game built around logic riddles.
+</p>
+
+<p>
+  <sub>October 2026 · ChatGPT</sub>
+</p>
+
+<p>
+  <a href="https://github.com/redefiningvicky/Nutmeg-Ginger-Cottage">
+    View Project
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://nutmeg-ginger-cottage.airyant14.chatgpt.site">
+    Play Game
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/Nutmeg-Ginger-Cottage/blob/main/Nutmeg_Ginger_Cottage_Screen/Nutmeg_Ginger_Cottage_Win.png">
+    View Victory Screen
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/Nutmeg-Ginger-Cottage/blob/main/Nutmeg_Ginger_Cottage_Screen/Nutmeg_Ginger_Cottage_Lose.png">
+    View Defeat Screen
+  </a>
+</p>
+
+<br>
+
+<h3>
+  🏠
   <a href="https://github.com/redefiningvicky/Nutmeg-Ginger-Cottage-Board-Game">
     Nutmeg & Ginger’s Cottage: Board Game Edition
   </a>
