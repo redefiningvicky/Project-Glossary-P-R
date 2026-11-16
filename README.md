@@ -208,6 +208,33 @@
 <br>
 
 <h3>
+  📺
+  <a href="https://github.com/redefiningvicky/Static-Soul-TV">
+    Static Soul TV
+  </a>
+</h3>
+
+<p>
+  A vintage television experience that brings analog texture and Democratic TV commercials into a quiet room.
+</p>
+
+<p>
+  <sub>November 2026 · Lovable, Claude, ChatGPT</sub>
+</p>
+
+<p>
+  <a href="https://github.com/redefiningvicky/Static-Soul-TV">
+    View Project
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://static-soul-tv.lovable.app/">
+    Launch TV
+  </a>
+</p>
+
+<br>
+
+<h3>
   🧸
   <a href="https://github.com/redefiningvicky/Street-Children-in-India">
     Street Children in India
