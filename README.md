@@ -69,6 +69,54 @@
 <br>
 
 <h3>
+  🌼
+  <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep">
+    Phuang Malai Krung Thep
+  </a>
+</h3>
+
+<p>
+  A visual pamphlet collection exploring Thailand's
+  relationship with water and climate resilience.
+</p>
+
+<p>
+  <sub>July 2025 · Canva, Google Maps, Blogger</sub>
+</p>
+
+<p>
+  <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep">
+    View Project
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://phuangmalaikrungthep.Blogger.com/">
+    View Website
+  </a>
+  &nbsp; • &nbsp;
+  <strong>View Designs:</strong>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/01_PMKT_247_Life/PMKT_247%20Life_Pamphlet_RGB.pdf">1</a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/02_PMKT_Ayutthaya_Kingdom/PMKT_Ayutthaya_Kingdom_Pamphlet_RGB.pdf">2</a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/03_PMKT_Koh_Chang_Eco_Tourism/PMKT_Koh_Chang_Eco_Tourism_Pamphlet_RGB.pdf">3</a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/04_PMKT_Lessons_from_Jasmine/PMKT_Lessons_from_Jasmine_Pamphlet_RGB.pdf">4</a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/05_PMKT_Rooted_in_Water/PMKT_Rooted_in_Water_Pamphlet_RGB.pdf">5</a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/06_PMKT_Sacred_Third_Spaces/PMKT_Sacred_Third_Spaces_Trifold_RGB.pdf">6</a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/07_PMKT_theCommons/PMKT_theCommons_Pamphlet_RGB.pdf">7</a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/08_PMKT_Benjakitti_Forest_Park/PMKT_Benjakitti_Forest_Park_Pamphlet_RGB.pdf">8</a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/09_PMKT_Water/PMKT_Water_Pamphlet_RGB.pdf">9</a>
+</p>
+
+<br>
+
+<h3>
   📢
   <a href="https://github.com/redefiningvicky/Portraits-of-a-Youth-Social-Movement">
     Portraits of a Youth Social Movement:
